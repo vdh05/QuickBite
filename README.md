@@ -1,16 +1,22 @@
-# swiggy
+# 🍽️ Food Delivery App (Swiggy-Inspired)
 
-A new Flutter project.
+A Swiggy-inspired food delivery application built using **Flutter**, with smooth UI, user login functionality, and real-time **location tracking**. This project replicates key design patterns and flows from real-world food delivery apps and supports simulated backend operations for restaurant data and billing.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📹 Demo
 
-A few resources to get you started if this is your first Flutter project:
+🎥 **Watch Demo:**  
+[[Watch the demo](https://drive.google.com/file/d/1WlmBBrZQ7U4yUVNpVmNeK1cXFvUIEINZ/view?usp=sharing)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- 🔐 **User Authentication** – Login page with email/password authentication (can be extended with Firebase)
+- 📍 **Location Tracking** – Captures user’s current location at login and shows nearby restaurants (Geolocator)
+- 🧭 **Bottom Navigation Bar** – Smooth navigation between sections
+- 🍔 **Food Categories** – Scrollable horizontal category cards
+- 🛒 **Cart & Billing** – Add to cart functionality with bill simulation
+- 🖼️ **Product Pages** – Detailed food listings with pricing
+- 🎯 **Clean, Responsive UI** – Built entirely using Flutter widgets
