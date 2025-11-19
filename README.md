@@ -1,4 +1,4 @@
-# 🍽️ Food Delivery App (Swiggy-Inspired)
+# 🍽️ QuickBite – Food Delivery App
 
 A Swiggy-inspired food delivery application built using **Flutter**, with smooth UI, user login functionality, and real-time **location tracking**. This project replicates key design patterns and flows from real-world food delivery apps and supports simulated backend operations for restaurant data and billing.
 
